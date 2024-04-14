@@ -1,2 +1,2 @@
-# BaseRepo
-For saving files 
+# FlaskBasicRepo
+For basic flask integration with mySQL databse
